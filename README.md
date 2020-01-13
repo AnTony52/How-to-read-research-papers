@@ -9,6 +9,6 @@ Read orders:
     2. Abtract 
     3. Conclusion
   Second time: 
-    *read in details.
-    *Go in math formulas, methods. 
-    *Avoid unknown key words. But if it being repeated many times then it might be an important word. Search for that word later on.
+    -read in details.
+    -Go in math formulas, methods. 
+    -Avoid unknown key words. But if it being repeated many times then it might be an important word. Search for that word later on.
